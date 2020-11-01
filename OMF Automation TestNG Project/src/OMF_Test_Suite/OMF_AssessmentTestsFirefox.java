@@ -204,7 +204,6 @@ public class OMF_AssessmentTestsFirefox {
 		System.out.println("Term is Incorrect. The Term  must be: 84 Months" ); 
 	}
 		
-		//TestGITSecondCommit
 		
 	} 
 	 
