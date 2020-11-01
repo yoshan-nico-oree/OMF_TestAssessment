@@ -125,6 +125,7 @@ public class OMF_AssessmentTests  {
 			
 		else 
 			
+			
 		{
 			System.out.println("Minimum Payment Amount is Incorrect. The amount must be R1,521.05 :"); 
 		}
