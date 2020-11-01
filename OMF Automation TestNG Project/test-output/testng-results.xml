@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-01T11:28:27 SAST" name="Default suite" finished-at="2020-11-01T11:29:13 SAST" duration-ms="45793">
+    <groups>
+    </groups>
+    <test started-at="2020-11-01T11:28:27 SAST" name="Default test" finished-at="2020-11-01T11:29:13 SAST" duration-ms="45793">
+      <class name="OMF_Test_Suite.OMF_AssessmentTestsFirefox">
+        <test-method signature="HomePageVerificationFireFox()[pri:1, instance:OMF_Test_Suite.OMF_AssessmentTestsFirefox@3d121db3]" started-at="2020-11-01T11:28:27 SAST" name="HomePageVerificationFireFox" finished-at="2020-11-01T11:28:35 SAST" duration-ms="7917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageVerificationFireFox -->
+        <test-method signature="PersonalLoan_Verification()[pri:2, instance:OMF_Test_Suite.OMF_AssessmentTestsFirefox@3d121db3]" started-at="2020-11-01T11:28:35 SAST" name="PersonalLoan_Verification" finished-at="2020-11-01T11:28:49 SAST" duration-ms="13564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalLoan_Verification -->
+        <test-method signature="Calculator_Verification()[pri:3, instance:OMF_Test_Suite.OMF_AssessmentTestsFirefox@3d121db3]" started-at="2020-11-01T11:28:49 SAST" name="Calculator_Verification" finished-at="2020-11-01T11:29:01 SAST" duration-ms="12678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Calculator_Verification -->
+        <test-method signature="TermCapital_Verification()[pri:4, instance:OMF_Test_Suite.OMF_AssessmentTestsFirefox@3d121db3]" started-at="2020-11-01T11:29:01 SAST" name="TermCapital_Verification" finished-at="2020-11-01T11:29:13 SAST" duration-ms="11605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TermCapital_Verification -->
+      </class> <!-- OMF_Test_Suite.OMF_AssessmentTestsFirefox -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
