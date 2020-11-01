@@ -188,7 +188,6 @@ public class OMF_AssessmentTestsFirefox {
 		System.out.println("Capital Amount is Incorrect. The amount must be: R50,000.00"); 
 	}
 	
-		
 	
 		//Find the element Term & get its text value. Show text value to validate that the correct Term value is rendered
 		String elementTerm = driver.findElement(By.id("breakdownTerm")).getText();
@@ -205,7 +204,7 @@ public class OMF_AssessmentTestsFirefox {
 		System.out.println("Term is Incorrect. The Term  must be: 84 Months" ); 
 	}
 		
-		
+		//TestGITSecondCommit
 		
 	} 
 	 
